@@ -16,7 +16,6 @@ function NewIncident() {
 
     const ongId = localStorage.getItem('ongId');
 
-
     async function handleNewIncident(e) {
         e.preventDefault();
 
@@ -32,8 +31,8 @@ function NewIncident() {
                     Authorization: ongId,
                 }
             })
+    
             history.push('../profile');
-            
         } catch(error) {
             alert('Erro ao cadastrar caso, tente novamente.');
         }
