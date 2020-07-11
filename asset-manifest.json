@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/BeTheHero_Front-End/static/css/main.706e0c31.chunk.css",
-    "main.js": "/BeTheHero_Front-End/static/js/main.6fc91188.chunk.js",
-    "main.js.map": "/BeTheHero_Front-End/static/js/main.6fc91188.chunk.js.map",
-    "runtime-main.js": "/BeTheHero_Front-End/static/js/runtime-main.298a8ca8.js",
-    "runtime-main.js.map": "/BeTheHero_Front-End/static/js/runtime-main.298a8ca8.js.map",
-    "static/js/2.e91955e3.chunk.js": "/BeTheHero_Front-End/static/js/2.e91955e3.chunk.js",
-    "static/js/2.e91955e3.chunk.js.map": "/BeTheHero_Front-End/static/js/2.e91955e3.chunk.js.map",
-    "index.html": "/BeTheHero_Front-End/index.html",
-    "precache-manifest.b2f0e3f095bad283912d6838d7ce97f0.js": "/BeTheHero_Front-End/precache-manifest.b2f0e3f095bad283912d6838d7ce97f0.js",
-    "service-worker.js": "/BeTheHero_Front-End/service-worker.js",
-    "static/css/main.706e0c31.chunk.css.map": "/BeTheHero_Front-End/static/css/main.706e0c31.chunk.css.map",
-    "static/js/2.e91955e3.chunk.js.LICENSE.txt": "/BeTheHero_Front-End/static/js/2.e91955e3.chunk.js.LICENSE.txt",
-    "static/media/heroes.png": "/BeTheHero_Front-End/static/media/heroes.1f4b5508.png",
-    "static/media/logo.svg": "/BeTheHero_Front-End/static/media/logo.7eea718b.svg"
+    "main.css": "/static/css/main.706e0c31.chunk.css",
+    "main.js": "/static/js/main.6fc91188.chunk.js",
+    "main.js.map": "/static/js/main.6fc91188.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0e3904ee.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0e3904ee.js.map",
+    "static/js/2.e91955e3.chunk.js": "/static/js/2.e91955e3.chunk.js",
+    "static/js/2.e91955e3.chunk.js.map": "/static/js/2.e91955e3.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.3b47aede24563b4bd2077331ff44a969.js": "/precache-manifest.3b47aede24563b4bd2077331ff44a969.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.706e0c31.chunk.css.map": "/static/css/main.706e0c31.chunk.css.map",
+    "static/js/2.e91955e3.chunk.js.LICENSE.txt": "/static/js/2.e91955e3.chunk.js.LICENSE.txt",
+    "static/media/heroes.png": "/static/media/heroes.1f4b5508.png",
+    "static/media/logo.svg": "/static/media/logo.7eea718b.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.298a8ca8.js",
+    "static/js/runtime-main.0e3904ee.js",
     "static/js/2.e91955e3.chunk.js",
     "static/css/main.706e0c31.chunk.css",
     "static/js/main.6fc91188.chunk.js"
